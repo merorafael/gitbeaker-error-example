@@ -244,30 +244,30 @@
   resolved "https://registry.yarnpkg.com/@gar/promisify/-/promisify-1.1.3.tgz#555193ab2e3bb3b6adc3d551c9c030d9e860daf6"
   integrity sha512-k2Ty1JcVojjJFwrg/ThKi2ujJ7XNLYaFGNB/bWT9wGR+oSMJHMa5w+CUq6p/pVrKeNNgA7pCqEcjSnHVoqJQFw==
 
-"@gitbeaker/core@^38.5.0":
-  version "38.5.0"
-  resolved "https://registry.yarnpkg.com/@gitbeaker/core/-/core-38.5.0.tgz#c6c88a516086adcc77fd921c3edc5de57176c958"
-  integrity sha512-bRz1aH3N0BGmptwokLTki+FHNH5gF2gHpftGkQpMwhKIBNdDT+Fkq/+VTdLXz0X2bkaI9XgpnagD2CQI0LzAwg==
+"@gitbeaker/core@^38.8.0":
+  version "38.8.0"
+  resolved "https://registry.yarnpkg.com/@gitbeaker/core/-/core-38.8.0.tgz#1ba2d6d114825daff487e3a60d72897193739574"
+  integrity sha512-UCPIHkVkchEBi0aVbE02WvjbcQulAsZmflOWK1Y9mrqr9psEg4d+K+L/CaI0hVn5tvxtin7eoTwOBPglSk5Rfg==
   dependencies:
-    "@gitbeaker/requester-utils" "^38.5.0"
+    "@gitbeaker/requester-utils" "^38.8.0"
     qs "^6.11.1"
     xcase "^2.0.1"
 
-"@gitbeaker/requester-utils@^38.5.0":
-  version "38.5.0"
-  resolved "https://registry.yarnpkg.com/@gitbeaker/requester-utils/-/requester-utils-38.5.0.tgz#d1bf5060c1e53376ebc54dffd2c379f34b4c56e3"
-  integrity sha512-nEEZw3pRN8obOLYBPnCoDJtva89tUrSoL1kzpq7sCGeHWH5hc4roiDZfzlJtGrgDMUzdBD1/3FoKYIYRy6U+hg==
+"@gitbeaker/requester-utils@^38.8.0":
+  version "38.8.0"
+  resolved "https://registry.yarnpkg.com/@gitbeaker/requester-utils/-/requester-utils-38.8.0.tgz#fd5deba4ea62b66b8a136b85fe1db5ea797afd06"
+  integrity sha512-4sr+RHA4BRrp7N/27RRDRyzdyvLxzXQigfcsFOP/K+vCx8YStCc0tVkX42lI1d2qWjtIUjX0fxUuTB8LahtQWA==
   dependencies:
     qs "^6.11.1"
     xcase "^2.0.1"
 
-"@gitbeaker/rest@^38.5.0":
-  version "38.5.0"
-  resolved "https://registry.yarnpkg.com/@gitbeaker/rest/-/rest-38.5.0.tgz#a88df4cda67a277e4b6e75158b73ac1ef17dc26b"
-  integrity sha512-8sjHM+NxrmCjANtNJeFlGNqwO6/7Rk41g2HSRMYGtDOux7sJs7ZIMp7GIOlAWynhxfaTSz8zWGQ6LWjbF4P1xg==
+"@gitbeaker/rest@^38.8.0":
+  version "38.8.0"
+  resolved "https://registry.yarnpkg.com/@gitbeaker/rest/-/rest-38.8.0.tgz#b52fcc115d9ee6d1c79609fcfc5f1387faf23e81"
+  integrity sha512-/JmG82ys/M5r4Prlgr80X0zBj+YY9PZ3JfMMGKo1NWuDE8MfxNf3wZSS/s9n/RMgNPpeuXO8bjPfgEk/W0coTw==
   dependencies:
-    "@gitbeaker/core" "^38.5.0"
-    "@gitbeaker/requester-utils" "^38.5.0"
+    "@gitbeaker/core" "^38.8.0"
+    "@gitbeaker/requester-utils" "^38.8.0"
 
 "@humanwhocodes/config-array@^0.5.0":
   version "0.5.0"
